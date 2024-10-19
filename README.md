@@ -1,0 +1,1 @@
+Neste código contém uma prática de HTML puro praticado no BLOCO DE NOTAS, nele contém algumas informnações sobre o Brasil em termos geograficos e suas regiões com alguns detalhes de cada região e capitais de cada estado.
